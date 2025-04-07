@@ -9,10 +9,11 @@ Dieses Repository enthält eine vollständige Konzeptausarbeitung sowie eine Bei
 - [concept.md](./concept.md) – Konzept der Ausbildungseinheit
 - [example_presentation.md](./example_presentation.md) – Strukturierter Text der Präsentation
 
-<br/>
+## 📄 Lizenz
 
-*Die Inhalte wurden eigenständig erstellt und dürfen frei zur Orientierung und Vorbereitung verwendet werden. Eine kommerzielle Nutzung ist ausgeschlossen.  
-Es handelt sich **nicht** um offizielle IHK-Unterlagen.*
+Dieses Projekt steht unter der [Creative Commons BY-NC 4.0 Lizenz](https://creativecommons.org/licenses/by-nc/4.0/).  
+Die Inhalte dürfen frei verwendet und angepasst werden – **nicht jedoch für kommerzielle Zwecke**.  
+Die Inhalte wurden eigenständig erstellt. Es handelt sich **nicht** um offizielle IHK-Unterlagen.
 
 <br/>
 
